@@ -1,0 +1,6 @@
+[submodule "Assets/Scripts/UnityUtils"]
+	path = Assets/Scripts/UnityUtils
+	url = git://github.com/Varesian/UnityUtils
+[submodule "Assets/Scripts/UnityParticleScripts"]
+	path = Assets/Scripts/UnityParticleScripts
+	url = git://github.com/Varesian/UnityParticleScripts
